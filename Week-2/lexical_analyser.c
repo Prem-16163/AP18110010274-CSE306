@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pulls
-Issues
-Marketplace
-Explore
- 
-@MandalapuMounish 
-MandalapuMounish
-/
-CD-AP18110010291-CSE306
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-More
-CD-AP18110010291-CSE306/WEEK-2/lexical_analyser.c
-@MandalapuMounish
-MandalapuMounish Create lexical_analyser.c
-Latest commit e08b7ca 1 hour ago
- History
- 1 contributor
-162 lines (158 sloc)  3.91 KB
-  
 #include<stdio.h>
 #include<ctype.h>
 #include<string.h>
@@ -191,16 +160,3 @@ int main()
     	//   printf("\n%s",symb_tab[i]);
 	return 0;
 }
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-
