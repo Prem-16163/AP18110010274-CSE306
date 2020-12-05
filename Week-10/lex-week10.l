@@ -11,4 +11,3 @@
 \n   return 0;
 . return yytext[0];
 %%
-© 2020 GitHub, I
